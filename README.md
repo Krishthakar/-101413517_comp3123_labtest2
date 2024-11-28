@@ -14,7 +14,7 @@ This is a simple React-based weather application that provides current weather d
 
 ## Screenshots
 ### Current Weather
-![Current Weather Screenshot](<add-screenshot-url-here>)
+![Current Weather Screenshot](https://github.com/Krishthakar/101413517_comp3123_labtest2/blob/main/Screenshot/Screenshot%202024-11-28%20145406.png)
 ### 5-Day Forecast
 ![Forecast Screenshot](<add-screenshot-url-here>)
 
