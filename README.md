@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Weather Application 🌤️
 
 This is a simple React-based weather application that provides current weather data and a 5-day forecast for any city. The app uses the [OpenWeatherMap API](https://openweathermap.org/) to fetch weather data.
